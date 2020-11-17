@@ -2,9 +2,9 @@
   "name": "lerua-shop",
   "version": "1.0.0",
   "description": "shop",
-  "main": "index.js",
+  "main": "methods.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node methods.js"
   },
   "keywords": [
     "js"
