@@ -1,0 +1,14 @@
+{
+  "name": "lerua-shop",
+  "version": "1.0.0",
+  "description": "shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Marat Sabitov <sabitov.marat01@gmail.com>",
+  "license": "ISC"
+}
